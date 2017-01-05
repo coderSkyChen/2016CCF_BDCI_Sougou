@@ -7,3 +7,4 @@
 复赛数据下载链接：
 http://pan.baidu.com/s/1mi9DjIg 
 密码：g8i9
+初识python，代码写的很粗糙，多多包涵~
